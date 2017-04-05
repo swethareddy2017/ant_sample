@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="welcome_java" default="info">
 <target name="info">
+This is example1-welcome java project
 </target>
 </project>
 
