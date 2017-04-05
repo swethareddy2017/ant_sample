@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="welcome_java" default="info">
+<target name="info">
+</target>
+</project>
+
